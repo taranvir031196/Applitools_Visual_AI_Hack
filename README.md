@@ -1,1 +1,1 @@
-# Applitools_Visual_AI_Hack
+# Applitools_Visual_AI_RockStar_Hack
